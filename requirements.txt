@@ -1,0 +1,29 @@
+# Core
+pydantic>=2.0.0
+PyYAML>=6.0
+
+# Embeddings & Vector DB
+sentence-transformers>=2.2.0
+chromadb>=0.3.21
+
+# LLM & Fine-tuning
+transformers>=4.30.0
+torch>=2.0.0
+peft>=0.4.0
+bitsandbytes>=0.39.0
+trl>=0.6.0
+
+# Utilities
+tenacity>=8.2.0  # Retry logic
+circuitbreaker>=1.4.0  # Circuit breaker pattern
+numpy>=1.24.0
+PyPDF2>=3.0.0
+python-dotenv>=1.0.0
+
+# Development
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
+bandit>=1.7.0  # Security scanning
