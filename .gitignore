@@ -11,3 +11,4 @@ audiorag_vectordb/
 .pytest_cache/
 .coverage
 htmlcov/
+venv/
