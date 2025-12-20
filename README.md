@@ -1,5 +1,5 @@
 # System Architecture
-
+```
 User Query
     ↓
 [Query Validator] → Custom exceptions for invalid input
@@ -17,7 +17,7 @@ User Query
 [Response Validator] → Ensure output quality
     ↓
 Answer to User
-
+```
 
 
 
