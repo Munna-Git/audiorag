@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.DS_Store
+.env
+audiorag_vectordb/
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
